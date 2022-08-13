@@ -1,0 +1,28 @@
+{
+    "java.project.sourcePaths": [
+        "Reto4Carrera/src",
+        "Reto3Partido/src",
+        "Reto3Moodle/src",
+        "Reto3Cine/src",
+        "Reto2TurnoVirtual/src",
+        "Reto2RepMusica/src",
+        "Reto2Peaje/src",
+        "Reto1Tienda/src",
+        "Reto1Notas/src",
+        "Reto1Carrera/src",
+        "Personaje/src",
+        "Exploración/src",
+        "EjemploVehículo/src",
+        "EjemploPolimorfismo/src",
+        "EjemploInterfaz/src/paqueteEjemInterfaz",
+        "EjemploHerencia/src",
+        "EjemploCita/src",
+        "EjemploAbstraccion/src",
+        "EjemInterfaz/src",
+        "ArrayList/src/paqueteArrayList",
+        "Reto4Notas/src",
+        "conexionSQL\\src"
+    ],
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 110
+}
